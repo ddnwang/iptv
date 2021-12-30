@@ -236,7 +236,6 @@ TVBS歡樂,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14
 17中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 18中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 iHOT频道,#genre#
-[无分类]
 iHOT爱赛车,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱赛车,http://39.134.134.85/000000001000/6000000006000240630/1.m3u8
 iHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
@@ -276,8 +275,6 @@ iHOT爱幼教,http://39.134.134.85/000000001000/6000000006000180630/1.m3u8
 iHOT爱猎奇,http://39.134.134.85/000000001000/6000000006000190630/1.m3u8
 iHOT爱世界,http://39.134.134.85/000000001000/6000000006000210630/1.m3u8
 
-经典影视频道,#genre#
-CCTV-西游记,http://106.53.212.251/daili/bili.php?id=23870337
 电影频道,#genre#
 好莱坞影院①,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 好莱坞影院②,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
